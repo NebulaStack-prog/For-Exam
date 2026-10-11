@@ -2,7 +2,7 @@
 
 <img src="https://github.com/NebulaStack-prog/For-Exam/blob/main/ForExam.png" width="200" height="230">
 
-## Number Systems
+## 1. Number Systems
 
 This section contains a general-purpose algorithm for converting a non-negative decimal integer into a number system with a specified base.
 
