@@ -27,12 +27,12 @@ def num_sys(n, base):
 
 The function supports bases from `2` to `16`, including:
 
-* **Base 2** — Binary
-* **Base 3** — Ternary
-* **Base 4** — Quaternary
-* **Base 8** — Octal
-* **Base 10** — Decimal
-* **Base 16** — Hexadecimal
+* **Base 2** – Binary
+* **Base 3** – Ternary
+* **Base 4** – Quaternary
+* **Base 8** – Octal
+* **Base 10** – Decimal
+* **Base 16** – Hexadecimal
 
 ### Examples
 
@@ -60,3 +60,4 @@ The algorithm extracts digits from right to left and builds the final representa
 
 **Note:** The function returns a string to support hexadecimal digits such as `A`–`F`. It is designed for non-negative integers and bases from `2` to `16`.
 
+© NESTIMS
