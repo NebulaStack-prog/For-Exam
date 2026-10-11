@@ -1,6 +1,6 @@
 # For-Exam
 
-<img src="https://github.com/NebulaStack-prog/Fir-Exam/blob/main/ForExam.png" width="200" height="230">
+<img src="https://github.com/NebulaStack-prog/For-Exam/blob/main/ForExam.png" width="200" height="230">
 
 ## Number Systems
 
